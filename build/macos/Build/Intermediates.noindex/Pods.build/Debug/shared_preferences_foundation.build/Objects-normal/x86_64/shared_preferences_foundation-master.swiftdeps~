@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3cab39c92f503fb84b11d64ba8d389fd754db9d903fa52317981d60b8b558a72"
+build_start_time: [1688281816, 341812133]
+build_end_time: [1688281816, 385210990]
+inputs:
+  "/Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.5/macos/Classes/SharedPreferencesPlugin.swift": !private [1678346088, 82296133]
+  "/Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.5/macos/Classes/messages.g.swift": !private [1678346088, 83670377]

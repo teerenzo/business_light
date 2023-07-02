@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5/macos/Classes/SqfliteDatabase.m \
+  /Users/andelarwanda/Desktop/business_light/build/macos/Build/Intermediates.noindex/Pods.build/Debug/sqflite.build/module.modulemap \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/Target\ Support\ Files/sqflite/sqflite-prefix.pch \
+  /Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5/macos/Classes/SqfliteDatabase.h \
+  /Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5/macos/Classes/SqfliteCursor.h \
+  /Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5/macos/Classes/SqfliteOperation.h \
+  /Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5/macos/Classes/SqfliteImport.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterViewController.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Users/andelarwanda/Documents/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5/macos/Classes/SqflitePlugin.h \
+  /Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5/macos/Classes/SqfliteFmdbImport.m \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/FMDB/src/fmdb/FMDB.h \
+  /Users/andelarwanda/Desktop/business_light/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FMDB.build/module.modulemap \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/FMDB/src/fmdb/FMDatabaseQueue.h \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/FMDB/src/fmdb/FMDatabaseAdditions.h \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/FMDB/src/fmdb/FMDatabasePool.h \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/FMDB/src/fmdb/FMResultSet.h \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/FMDB/src/fmdb/FMDatabase.h \
+  /Users/andelarwanda/Desktop/business_light/macos/Pods/Target\ Support\ Files/FMDB/FMDB-umbrella.h

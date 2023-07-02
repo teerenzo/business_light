@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/andelarwanda/Desktop/business_light/build/macos/Build/Products/Debug/printing/printing.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/andelarwanda/Desktop/business_light/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/unextended-module.modulemap",
+    }]
+  }]
+}

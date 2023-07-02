@@ -1,0 +1,1016 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-55.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "adaptive_theme",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/adaptive_theme-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/analyzer-5.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "animated_flip_counter",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/animated_flip_counter-0.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/archive-3.3.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/args-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "asn1lib",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/asn1lib-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/async-2.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "barcode",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/barcode-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "barcode_widget",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/barcode_widget-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "basic_utils",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/basic_utils-3.9.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "bidi",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/bidi-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "bloc",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/bloc-8.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "build",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/build-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "build_config",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/build_config-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_daemon",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/build_daemon-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_resolvers",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/build_resolvers-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "build_runner",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/build_runner-2.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_runner_core",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/build_runner_core-7.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/built_collection-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/built_value-8.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cached_network_image",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/cached_network_image-3.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_platform_interface",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/cached_network_image_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_web",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/cached_network_image_web-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/characters-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/checked_yaml-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/cli_util-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/code_builder-4.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/collection-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/crypto-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "cryptography",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/cryptography-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/csslib-0.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/dart_style-2.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "dartx",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/dartx-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "device_info_plus",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/device_info_plus-8.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "device_info_plus_platform_interface",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/device_info_plus_platform_interface-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dio",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/dio-4.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dyn_mouse_scroll",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/dyn_mouse_scroll-1.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "easy_encryption",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/easy_encryption-0.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "easy_localization",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/easy_localization-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "easy_logger",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/easy_logger-0.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "encrypt",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/encrypt-5.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "excel",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/excel-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/ffi-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "file_picker",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/file_picker-5.2.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "file_saver",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/file_saver-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/fixnum-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "fluent_ui",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/fluent_ui-4.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/andelarwanda/Documents/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_bloc",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_bloc-8.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_blurhash",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_blurhash-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "flutter_cache_manager",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_cache_manager-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_improved_scrolling",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_improved_scrolling-0.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_launcher_icons",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_launcher_icons-0.13.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_localizations",
+      "rootUri": "file:///Users/andelarwanda/Documents/flutter/packages/flutter_localizations",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_native_splash",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_native_splash-2.2.19",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_screenutil",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_screenutil-5.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/flutter_svg-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/andelarwanda/Documents/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/andelarwanda/Documents/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "frontend_server_client",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/frontend_server_client-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/get_it-7.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/glob-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "go_router_flow",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/go_router_flow-6.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "google_fonts",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/google_fonts-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/graphs-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "hive",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/hive-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/html-0.15.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/http-0.13.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_multi_server",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/http_multi_server-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "hydrated_bloc",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/hydrated_bloc-9.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/image-4.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "image_zoom_on_move",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/image_zoom_on_move-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "injectable",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/injectable-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "injectable_generator",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/injectable_generator-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "internet_connection_checker",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/internet_connection_checker-1.0.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/io-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "isar",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/isar-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "isar_flutter_libs",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/isar_flutter_libs-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "isar_generator",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/isar_generator-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/json_annotation-4.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/logging-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "lottie",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/lottie-1.4.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/matcher-0.12.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/material_color_utilities-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/meta-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/mime-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "octo_image",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/octo_image-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/package_config-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_drawing",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_drawing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_provider-2.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_provider_android-2.0.24",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pdf",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/pdf-3.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "permission_handler",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/permission_handler-10.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_android",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/permission_handler_android-10.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_apple",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/permission_handler_apple-9.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_platform_interface",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/permission_handler_platform_interface-3.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "permission_handler_windows",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/petitparser-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/platform-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/pointycastle-3.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/pool-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "printing",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/printing-5.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/process-4.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/pub_semver-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pubspec_parse",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/pubspec_parse-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "qr",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/qr-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "recase",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/recase-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "screen_retriever",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/screen_retriever-0.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "scroll_pos",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/scroll_pos-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences-2.0.18",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "shared_preferences_android",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_android-2.0.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_foundation",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_web-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shelf",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shelf-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shelf_web_socket",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/shelf_web_socket-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/andelarwanda/Documents/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_gen",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/source_gen-1.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/source_span-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite-2.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/sqflite_common-2.4.2+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/stream_transform-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/synchronized-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/test_api-0.4.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "time",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/time-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "timing",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/timing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/typed_data-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "universal_io",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/universal_io-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "universal_platform",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/universal_platform-1.0.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/uuid-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/watcher-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/web_socket_channel-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/win32-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "window_manager",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/window_manager-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/xdg_directories-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/xml-6.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "xxh3",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/xxh3-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/andelarwanda/.pub-cache/hosted/pub.dev/yaml-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "business_light",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2023-07-02T06:48:00.238016Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.4"
+}

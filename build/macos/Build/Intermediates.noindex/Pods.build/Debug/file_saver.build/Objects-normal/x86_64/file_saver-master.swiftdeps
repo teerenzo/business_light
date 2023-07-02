@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2945dcec79ba7d6f349196abd556e4d87fc1214c81a0f9a21cf7a60517fd9b59"
+build_start_time: [1688281827, 145997047]
+build_end_time: [1688281843, 628733158]
+inputs:
+  "/Users/andelarwanda/.pub-cache/hosted/pub.dev/file_saver-0.1.1/macos/Classes/Dialog.swift": [1688280426, 863152742]
+  "/Users/andelarwanda/.pub-cache/hosted/pub.dev/file_saver-0.1.1/macos/Classes/FileSaverPlugin.swift": [1688280426, 837061882]

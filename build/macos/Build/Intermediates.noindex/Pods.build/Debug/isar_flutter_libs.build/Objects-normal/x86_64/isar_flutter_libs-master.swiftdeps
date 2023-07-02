@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ca7d0bdb33c92750189740ce92a516d20024cd1d2a1380d88f6f22dd12e29eaa"
+build_start_time: [1688281827, 60833930]
+build_end_time: [1688281842, 919094085]
+inputs:
+  "/Users/andelarwanda/.pub-cache/hosted/pub.dev/isar_flutter_libs-3.0.5/macos/Classes/IsarFlutterLibsPlugin.swift": [1688280474, 680039405]

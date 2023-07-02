@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6f9a4eda3c6a7593c493c292861f747045e79236dc95192028ca4fa3a077c3e6"
+build_start_time: [1688281816, 312482833]
+build_end_time: [1688281838, 195407867]
+inputs:
+  "/Users/andelarwanda/.pub-cache/hosted/pub.dev/window_manager-0.3.1/macos/Classes/WindowManager.swift": [1688280428, 741010665]
+  "/Users/andelarwanda/.pub-cache/hosted/pub.dev/window_manager-0.3.1/macos/Classes/WindowManagerPlugin.swift": [1688280428, 661372661]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "abf133ebbb4cccb4b428bddcc669c2d9e0672342d1830c4aa9b6ca0ce7a739f1"
+build_start_time: [1688281902, 276777982]
+build_end_time: [1688281938, 183493137]
+inputs:
+  "/Users/andelarwanda/Desktop/business_light/macos/Flutter/GeneratedPluginRegistrant.swift": [1688281791, 571361541]
+  "/Users/andelarwanda/Desktop/business_light/macos/Runner/AppDelegate.swift": [1688280273, 741172790]
+  "/Users/andelarwanda/Desktop/business_light/macos/Runner/MainFlutterWindow.swift": [1688280273, 746707916]
